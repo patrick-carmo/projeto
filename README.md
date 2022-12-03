@@ -1,4 +1,4 @@
-# Local
+# Projeto
  Leaning Git & GitHub
 
-Primeiro repositório criado para aprender Git & GitHub.
+Esse foi o primeiro projeto que realizei durante o primeiro período da faculdade.
