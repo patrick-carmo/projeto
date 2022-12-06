@@ -20,6 +20,10 @@
         <input type="submit" name="submit" value="Entrar" class="btn btn-primary"> 
         <a href="crud/cadastrar.php" class="btn btn-secondary">Cadastre-se</a>
         </div>
+        <br><br>
+        <div>
+        <a href="img/projeto.pdf" class="btn btn-dark" target="blank">Informações sobre o projeto</a>
+        <div>
         </form>
         <br>
     </div>
