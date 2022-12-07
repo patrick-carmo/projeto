@@ -16,7 +16,7 @@ include_once('barra.php');
           <th colspan="2"><h3 align='center'>Patrick J. do Carmo da Silva</h3></th>
         </tr>
         <tr>
-        <td colspan="2"><img src="img/dev1.jpg" width="350" class="rounded-5">
+        <td colspan="2"><img src="img/dev.jpg" width="350" class="rounded-5">
         </td>
         </tr>
         <tr>
