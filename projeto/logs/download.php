@@ -50,6 +50,6 @@
 </html>
 <?php 
     }else{
-        header('location: ../dev.php.php');
+        header('location: ../dev.php');
     }
 ?>
